@@ -1,0 +1,24 @@
+# Operating system files
+/.DS_Store
+/Thumbs.db
+
+# Logs and output files
+npm-debug.log*
+yarn-error.log*
+
+# Build artifacts
+/build/
+/dist/
+
+# IDE specific files
+/.vscode/
+
+# Node.js dependencies
+/node_modules/
+
+# Testing files
+/coverage/
+/test-results/
+
+# Environment variables
+.env*
